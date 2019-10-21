@@ -50,12 +50,9 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 
 ### Contact details
 
-Dr. Zhenya ZHENG\n
-Shanghai Astronomical Observatory, CAS\n
-80 Nandan Rd.\n
-200030 Shanghai, China\n
-Email: zhengzy (at) shao.ac.cn\n
-Phone: +86 21 3477 5362
+- Shanghai Astronomical Observatory CAS, 80 Nandan Rd., 200030 Shanghai, China
+- Email: zhengzy_at_shao.ac.cn
+- Phone: +86 21 3477 5362
 
 
 
