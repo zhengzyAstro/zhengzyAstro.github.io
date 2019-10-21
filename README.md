@@ -1,13 +1,7 @@
 ## Welcome to Dr. Zhenya Zheng's Homepage
 
-I am a research professor at [Astrophysics Division of Shanghai Astronomical Observatory (SHAO)](http://astro-en.shao.cas.cn/members/).
+I am a research professor at [Astrophysics Division of Shanghai Astronomical Observatory (SHAO)](http://astro-en.shao.cas.cn/members/). I'm leading the research group of "Early Universe and High-redshift Galaxies" at SHAO. I'm also leading SHAO's team of the Multi-Channel Imager project. 
 
-### Brief CV
-- 2016.11 -- Now:        Shanghai Astronomical Observatory (SHAO)         Research Professor
-- 2014.10 -- 2016.11    Pontificia Universidad Catolica de Chile (Chile)     CAS-CONICYT Postdoctoral Fellow
-- 2012.09 -- 2014.10   Arizona State University (USA)                       SESE Postdoctoral Fellow
-- 2012.06              University of Science and Technology of China      Ph.D.
-- 2006.06              University of Science and Technology of China       B.S.
 
 ### Research Interest and Projects
 1. Cosmological Reionization Probed by Lyman-Alpha Galaxies
@@ -47,18 +41,20 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 - AGN Variability:
       Quasars Time-Dependent Color Variability: Sun et al. (2014)
 
+### Brief CV
+- 2016.11 -- Now:        Shanghai Astronomical Observatory (SHAO)         Research Professor
+- 2014.10 -- 2016.11    Pontificia Universidad Catolica de Chile (Chile)     CAS-CONICYT Postdoctoral Fellow
+- 2012.09 -- 2014.10   Arizona State University (USA)                       SESE Postdoctoral Fellow
+- 2012.06              University of Science and Technology of China      Ph.D.
+- 2006.06              University of Science and Technology of China       B.S.
+
 ### Contact details
 
-Dr. Zhenya ZHENG
-
-Shanghai Astronomical Observatory, CAS
-
-80 Nandan Rd.
-
-200030 Shanghai, China
-
-Email: zhengzy (at) shao.ac.cn
-
+Dr. Zhenya ZHENG\\
+Shanghai Astronomical Observatory, CAS\\
+80 Nandan Rd.\\
+200030 Shanghai, China\\
+Email: zhengzy (at) shao.ac.cn\\
 Phone: +86 21 3477 5362
 
 
