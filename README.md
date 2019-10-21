@@ -12,9 +12,9 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 ### Research Interest and Projects
 1. Cosmological Reionization Probed by Lyman-Alpha Galaxies
 - LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization (co-PI, PI: Wang Junxian)
-      - First results of LAGER: Zheng et al. (2017)
-      - NOAO has a press release for LAGER: "Distant Galaxies 'Lift the Veil' on the End of the Cosmic Dark Ages"
-      - There are several news reports (The website may take a while to response) all over the world about our LAGER paper.
+      -- First results of LAGER: Zheng et al. (2017)
+      -- NOAO has a press release for LAGER: "Distant Galaxies 'Lift the Veil' on the End of the Cosmic Dark Ages"
+      -- There are several news reports (The website may take a while to response) all over the world about our LAGER paper.
       - For the Chinese news reports, please see Chinese-Report-1 and Chinese-Report-2.
       - First spectroscopic confirmations of LAGER: Hu et al. (2017)
 - A Large Spectroscopic Survey of Galaxies at Redshifts between 6 and 7 (PI: Jiang Linhua)
