@@ -4,6 +4,12 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 
 
 ### Research Interest and Projects
+
+**[Cosmological Reionization Probed by Lyman-Alpha Galaxies](/EoR/EoR.md)** | **Galaxy Evolution and Large Scale Structure** | **AGN Variability and Supermassive Black-Hole Binaries** | **Astronomical Instrumentation**
+------------ | ------------- | ------------- | ------------- 
+ ![EoR](/EoR/BubblesEoR.jpg) | | |  
+
+
 1. **[Cosmological Reionization Probed by Lyman-Alpha Galaxies](/EoR/EoR.md)**
   ![EoR](/EoR/BubblesEoR.jpg)
 - LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization (co-PI, PI: Wang Junxian)
