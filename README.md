@@ -11,13 +11,16 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
       - There are several news reports (The website may take a while to response) all over the world about our LAGER paper.
       - For the Chinese news reports, please see Chinese-Report-1 and Chinese-Report-2.
       - First spectroscopic confirmations of LAGER: Hu et al. (2017)
+      
 - A Large Spectroscopic Survey of Galaxies at Redshifts between 6 and 7 (PI: Jiang Linhua)
       - Survey description paper: Jiang L.H., et al. (2017)
       - Bright-end Lyman-Alpha Luminosity Function at z~5.7: Zheng et al. in Prep.
+      
 - Cosmic Deep And Wide Narrowband Survey (Cosmic DAWN, PI: Rhoads James)
       - Hydrogen-Alpha Luminosity Function: Gonzalez et al. 2017, submitted.
+      
 - First Light And Reionization Experiment (FLARE, PI: Rhoads James)
--  AAS report: The DAWN and FLARE Surveys
+      -  AAS report: The DAWN and FLARE Surveys
       
 2. Galaxy Evolution and Large Scale Structure
 - Properties of Lyman-Alpha Galaxies:
@@ -42,15 +45,15 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
       Quasars Time-Dependent Color Variability: Sun et al. (2014)
 
 ### Brief CV
-- 2016.11 -- Now:        Shanghai Astronomical Observatory (SHAO)         Research Professor
-- 2014.10 -- 2016.11    Pontificia Universidad Catolica de Chile (Chile)     CAS-CONICYT Postdoctoral Fellow
+- 2016.11 -- Now:      Shanghai Astronomical Observatory (SHAO)             Research Professor
+- 2014.10 -- 2016.11   Pontificia Universidad Catolica de Chile (Chile)     CAS-CONICYT Postdoctoral Fellow
 - 2012.09 -- 2014.10   Arizona State University (USA)                       SESE Postdoctoral Fellow
-- 2012.06              University of Science and Technology of China      Ph.D.
-- 2006.06              University of Science and Technology of China       B.S.
+- 2012.06              University of Science and Technology of China        Ph.D.
+- 2006.06              University of Science and Technology of China        B.S.
 
 ### Contact details
 
-- Shanghai Astronomical Observatory CAS, 80 Nandan Rd., 200030 Shanghai, China
+- Address: Shanghai Astronomical Observatory CAS, 80 Nandan Rd., 200030 Shanghai, China
 - Email: zhengzy_at_shao.ac.cn
 - Phone: +86 21 3477 5362
 
