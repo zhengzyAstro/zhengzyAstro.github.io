@@ -7,7 +7,7 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 
 **[Cosmological Reionization Probed by Lyman-Alpha Galaxies](/EoR/EoR.md)** | **Galaxy Evolution and Large Scale Structure** | **AGN Variability and Supermassive Black-Hole Binaries** | **Astronomical Instrumentation**
 ------------ | ------------- | ------------- | ------------- 
- ![EoR{400 100}](/EoR/BubblesEoR.jpg) | | ![SMBH{:height="100px" width="400px"}](/Pic/SMBH.png) |  
+ ![EoR{400 100}](/EoR/BubblesEoR.jpg) | | ![SMBH{400 100}](/Pic/SMBH.png) |  
 
 
 1. **[Cosmological Reionization Probed by Lyman-Alpha Galaxies](/EoR/EoR.md)**
