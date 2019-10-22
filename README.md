@@ -11,7 +11,6 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 
 
 1. **[Cosmological Reionization Probed by Lyman-Alpha Galaxies](/EoR/EoR.md)**
-  ![EoR](/EoR/BubblesEoR.jpg)
 - LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization (co-PI, PI: Wang Junxian)
   - First results of LAGER: Zheng et al. (2017)
     -   NOAO had a press release for LAGER: "Distant Galaxies 'Lift the Veil' on the End of the Cosmic Dark Ages"
