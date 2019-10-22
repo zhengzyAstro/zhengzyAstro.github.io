@@ -4,7 +4,7 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 
 
 ### Research Interest and Projects
-1. Cosmological Reionization Probed by Lyman-Alpha Galaxies  
+1. **Cosmological Reionization Probed by Lyman-Alpha Galaxies**
 - LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization (co-PI, PI: Wang Junxian)
   - First results of LAGER: Zheng et al. (2017)
     - NOAO had a press release for LAGER: "Distant Galaxies 'Lift the Veil' on the End of the Cosmic Dark Ages"
@@ -20,7 +20,7 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 - First Light And Reionization Experiment (FLARE, PI: Rhoads James)
   - AAS report: The DAWN and FLARE Surveys
       
-2. Galaxy Evolution and Large Scale Structure
+2. **Galaxy Evolution and Large Scale Structure**
 - Properties of Lyman-Alpha Galaxies:
   - X-ray Constrains on Lyman-Alpha Escape Fraction: Zheng et al. (2012)
   - Lyman-Alpha Equivalent Width distributions: Zheng et al. (2014)
@@ -32,7 +32,7 @@ I am a research professor at [Astrophysics Division of Shanghai Astronomical Obs
 - Lyman-Alpha Galaxies at z~2.1 in CDF-N (PI: Zheng Zhenya)
   -   LAEs and LABs at z~2.1 in CDF-N: Zheng et al. in Prep.
 
-3. AGN Variability and Supermassive Black-Hole Binaries
+3. **AGN Variability and Supermassive Black-Hole Binaries**
 - Searching for Supermassive Black-Hole Binaries:
   -   SMBHB J0159+0105 from SDSS Stripe82 + CRTS: Zheng et al. (2016b)
   -   SMBHBs from SDSS Stripe82 + Pan-STARRS MDS: Huang et al. in Prep.
