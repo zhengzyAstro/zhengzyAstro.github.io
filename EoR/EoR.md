@@ -1,7 +1,7 @@
 ![EoR](/EoR/BubblesEoR.jpg)
 
 **Cosmological Reionization Probed by Lyman-Alpha Galaxies**
-- LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization (co-PI, PI: Wang Junxian)
+- LAGER Survey: Lyman-Alpha Galaxies in the Epoch of Reionization
   - First results of LAGER: Zheng et al. (2017)
     -   NOAO had a press release for LAGER: "Distant Galaxies 'Lift the Veil' on the End of the Cosmic Dark Ages"
     -   There were several news reports (The website may take a while to response) all over the world about our LAGER paper.
