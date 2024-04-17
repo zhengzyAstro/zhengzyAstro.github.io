@@ -2,7 +2,7 @@
 
 I am a professor at Shanghai Astronomical Observatory (SHAO). I'm leading the research group of "Early Universe and High-redshift Galaxies" at SHAO. I'm also leading the SHAO's team in the Multi-Channel Imager project for CSST. 
 
-**Interested students and postdocs are highly welcome to join us!
+#### Interested students and postdocs are highly welcome to join us!
 
 
 ### Research Interest and Projects
