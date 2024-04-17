@@ -1,6 +1,6 @@
-## Welcome to Dr. Zhenya Zheng's Homepage
+## Welcome to Prof. Zhenya Zheng's Homepage
 
-I am a research professor at [the Astrophysics Division of Shanghai Astronomical Observatory (SHAO)](http://astro-en.shao.cas.cn/members/). I'm leading the research group of "Early Universe and High-redshift Galaxies" at SHAO. I'm also leading the SHAO's team in the Multi-Channel Imager project for CSST. 
+I am a professor at Shanghai Astronomical Observatory (SHAO). I'm leading the research group of "Early Universe and High-redshift Galaxies" at SHAO. I'm also leading the SHAO's team in the Multi-Channel Imager project for CSST. 
 
 
 ### Research Interest and Projects
